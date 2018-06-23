@@ -8,6 +8,9 @@ For downloading use
 ## Languages
 python3.6.5
 
+## Best Features
+Create Data with n,step,variance,correlation parameters
+
 ## Explanation
 ### Simple Linear Regression Example
 #### Determmination of m and b and y_hat
